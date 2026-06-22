@@ -70,7 +70,7 @@ Public project to showcase my skills end-to-end:
 ## 📫 How to reach me
 
 - **LinkedIn:** [linkedin.com/in/ayltonmourajunior](https://www.linkedin.com/in/ayltonmourajunior)  
-- **GitHub:** [github.com/ayltonmourajr](https://github.com/ayltonmourajr)
+- **GitHub:** [github.com/ayltonmourajr](https://github.com/ayltonmourajunior)
 
 Feel free to reach out if you’d like to talk about projects, opportunities or tech in general. 🙂
 
